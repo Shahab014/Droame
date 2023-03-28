@@ -1,0 +1,10 @@
+.container{
+    justify-content: center;
+    width: 100%;
+    background-color: aliceblue;
+    color: blue;
+}
+
+#u{
+    color: black;
+}
